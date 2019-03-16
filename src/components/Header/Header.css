@@ -1,18 +1,25 @@
-header {
+.main-header  {
+    width: 100%;
+    background-color: rgb(54, 54, 187);
+}
+
+.main-header nav {
+    height: 100%;
     width: 100%;
 }
 
-.main-header ul {
+.main-header nav ul {
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: space-around; 
+    height: 100%;
     width: 100%;
 }
 
 .main-header ul li {
     list-style: none;
+    color: rgb(238, 232, 232);
+    font-weight: bold;
 }
 
-.main-header ul li {
-    list-style: none;
-}
 

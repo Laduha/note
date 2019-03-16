@@ -4,12 +4,12 @@ import  "./Header.css"
 
 function Header() {
   return (
-      <header>
-          <nav className="main-header">
+      <header className="main-header">
+          <nav>
           <ul>
-              <li><Link to="/">Main</Link></li>
-              <li><Link to="/about">About</Link></li>
-              <li><Link to="/settings">Settings</Link></li>
+              <li><Link to="/">MAIN</Link></li>
+              <li><Link to="/about">ABOUT</Link></li>
+              <li><Link to="/settings">SETTINGS</Link></li>
           </ul>
       </nav>
     </header>
