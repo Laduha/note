@@ -1,0 +1,18 @@
+header {
+    width: 100%;
+}
+
+.main-header ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.main-header ul li {
+    list-style: none;
+}
+
+.main-header ul li {
+    list-style: none;
+}
+

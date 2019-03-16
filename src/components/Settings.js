@@ -2,7 +2,7 @@ import React from 'react'
 
 function Settings() {
   return (
-    <div>
+    <div className="content">
       <h1>Settings</h1>
     </div>
   )
