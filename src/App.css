@@ -22,17 +22,26 @@ header {
 }
 
 .content {
-    height: 90%;
+    height: 87%;
     width: 100%;
     background-color: rgb(98, 221, 16);
 }
 
 footer {
-    height: 4%;
+    height: 7%;
     width: 100%;
 }
 
 a {
     text-decoration: none;
     color: inherit;
+}
+
+.content main {
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+    height: 100%;
 }

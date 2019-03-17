@@ -1,9 +1,13 @@
 import React from 'react'
+import './About.css';
+
 
 function About() {
   return (
     <main className="content">
-      <h1>About</h1>
+      <div className="container">
+        <h1>About</h1>
+      </div>
     </main>
   )
 }

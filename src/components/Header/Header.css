@@ -5,21 +5,19 @@
 
 .main-header nav {
     height: 100%;
-    width: 100%;
 }
 
 .main-header nav ul {
     display: flex;
     align-items: center;
-    justify-content: space-around; 
+    justify-content: flex-end; 
     height: 100%;
     width: 100%;
 }
 
 .main-header ul li {
+    margin: 0 5%;
     list-style: none;
     color: rgb(238, 232, 232);
     font-weight: bold;
 }
-
-
